@@ -2,11 +2,11 @@
 
 const mongoose = require('mongoose');
 
+/**
+ * Schema used for products model
+ */
 const products = mongoose.Schema({
-  name: String,
-  description: String,
-  price: Number,
-  available: Boolean,
+  name: { type: String, required: true }
 });
 
 module.exports = mongoose.model('products ', products);
