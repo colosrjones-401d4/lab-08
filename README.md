@@ -1,5 +1,3 @@
-![CF](https://pbs.twimg.com/profile_images/800716470258925569/LrTGS24B.jpg) LAB 8
-=================================================
 
 ## Lab 08
 ### Steven Jones
